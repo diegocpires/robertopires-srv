@@ -6,11 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "pm2": "pm2-runtime npm -- run start",
     "lint": "next lint"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.8",
     "next": "^15.3.3",
+    "pm2": "^6.0.8",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },

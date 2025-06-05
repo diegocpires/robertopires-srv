@@ -39,6 +39,15 @@ RUN \
 # Production image, copy all the files and run next
 FROM base AS runner
 WORKDIR /app
+ENV NODE_ENV=production
+
+# Copy necessary files for standalone Next.js
+COPY --from=builder /app/public ./public
+COPY --from=builder /app/.next/standalone ./
+COPY --from=builder /app/.next/static ./.next/static
+
+EXPOSE 3000
+CMD ["node", "server.js"]
 
 ENV NODE_ENV=production
 # Uncomment the following line in case you want to disable telemetry during runtime.

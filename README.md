@@ -6,8 +6,6 @@ Site institucional estático para a empresa de contabilidade "Roberto Pires".
 - Home
 - Sobre Nós
 - Serviços
-- Depoimentos
-- Dicas
 - Contato
 
 ## Tecnologias

@@ -7,7 +7,7 @@ export default function TermosDeUso() {
       <Navbar />
       <section className="bg-primary-light py-20 text-center">
         <h1 className="text-4xl font-bold text-primary-dark mb-6">Termos de Uso</h1>
-        <div className="max-w-2xl mx-auto text-lg text-primary-dark text-left space-y-4">
+        <div className="max-w-2xl mx-auto text-lg text-primary-dark text-left space-y-4 px-4">
   <h2 className="text-2xl font-semibold mb-4">Termos de Uso — Roberto Pires Contabilidade</h2>
   <p>Ao acessar e utilizar este site, você concorda com os termos e condições descritos abaixo. Caso não concorde, por favor, não utilize nossos serviços online.</p>
   <h3 className="text-xl font-semibold mt-6 mb-2">1. Objetivo do Site</h3>

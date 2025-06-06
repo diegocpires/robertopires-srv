@@ -7,7 +7,7 @@ export default function PoliticaDePrivacidade() {
       <Navbar />
       <section className="bg-primary-light py-20 text-center">
         <h1 className="text-4xl font-bold text-primary-dark mb-6">Política de Privacidade</h1>
-        <div className="max-w-2xl mx-auto text-lg text-primary-dark text-left space-y-4">
+        <div className="max-w-2xl mx-auto text-lg text-primary-dark text-left space-y-4 px-4">
   <h2 className="text-2xl font-semibold mb-4">Política de Privacidade — Roberto Pires Contabilidade</h2>
   <p>A Roberto Pires Contabilidade preza pela privacidade e segurança dos dados de seus clientes e visitantes. Esta Política de Privacidade descreve como coletamos, utilizamos, armazenamos e protegemos suas informações, em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 — LGPD).</p>
   <h3 className="text-xl font-semibold mt-6 mb-2">1. Coleta de Dados</h3>

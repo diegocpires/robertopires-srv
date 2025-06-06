@@ -18,7 +18,7 @@ export default function Contato() {
             title="Formulário de Contato"
             width="100%"
             height="600"
-            className="rounded-lg shadow border w-full min-w-[550px]"
+            className="rounded-lg shadow border w-full"
             frameBorder="0"
             allowFullScreen
           ></iframe>

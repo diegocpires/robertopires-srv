@@ -10,63 +10,59 @@ export default function Servicos() {
         <h1 className="text-2xl md:text-4xl font-bold text-primary-dark mb-4">Notícias</h1>
       </section>
       <section className="max-w-4xl w-full mx-auto py-8 px-2 md:py-16 md:px-4">
-        <h1>Latest Fiscal and Legal News in Brazil – June 17, 2025</h1>
-<p>As Brazil navigates its dynamic economic and regulatory landscape, June 2025 marks a period of significant updates in both fiscal and legal fields. This post provides a concise summary of the most important recent developments affecting businesses, investors, and citizens across the country.</p>
+        <h1>Principais Atualizações Fiscais e Jurídicas no Brasil – Junho de 2025</h1>
 
-<h2>Key Fiscal Updates</h2>
+<p>O cenário fiscal e jurídico brasileiro tem passado por mudanças relevantes nas últimas semanas, trazendo impactos significativos para profissionais, empresas e demais interessados. Nesta análise, reunimos as notícias mais importantes até 17 de junho de 2025, destacando os pontos que merecem atenção para melhor compreensão e planejamento estratégico.</p>
+
+<h2>Reforma Tributária: Avanços e Novidades</p>
+
+<p>Após intensa discussão no Congresso, a Reforma Tributária avançou com a aprovação da PEC 45/2019 na Câmara dos Deputados, representando um passo decisivo rumo à simplificação do sistema tributário nacional.</p>
+
 <ul>
-  <li><strong>New Tax Reform Implementation:</strong> The Federal Government has enacted the latest phase of its comprehensive tax reform, focusing on simplifying tax structures and reducing corporate tax rates from 25% to 20% for qualifying small and medium enterprises (SMEs). This aims to stimulate entrepreneurship and foreign investment.</li>
-  <li><strong>Digital Services Tax (DST) Adjustments:</strong> Following global trends, Brazil has updated its DST regulations, increasing the threshold for applicability to BRL 5 million annual gross revenues, thus exempting many startups and small digital businesses.</li>
-  <li><strong>Fiscal Responsibility Law Amendments:</strong> New provisions were introduced to improve fiscal transparency and controls at the municipal level, requiring stricter budget reporting and real-time digital audits to curb local government debts.</li>
+  <li><strong>Fusão de Tributos:</strong> A proposta prevê a unificação de cinco tributos federais, estaduais e municipais, como ICMS, ISS, IPI, PIS e Cofins, em um único imposto sobre bens e serviços (IBS).</li>
+  <li><strong>Redução da Cumulatividade:</strong> Espera-se maior eficiência no recolhimento e diminuição do efeito cascata, beneficiando cadeias produtivas.</li>
+  <li><strong>Transição Suave:</strong> O texto aprovado inclui mecanismos para adaptação gradual, buscando minimizar impactos negativos para empresas e consumidores.</li>
 </ul>
 
-<h2>Recent Legal Developments</h2>
+<p>Profissionais da área devem acompanhar as próximas fases no Senado e possíveis alterações, além de preparar suas organizações para a nova realidade tributária.</p>
+
+<h2>Novas Regras para Compliance e Responsabilidade Empresarial</h2>
+
+<p>Em paralelo, o Ministério da Justiça publicou novas diretrizes para programas de compliance, reforçando a importância do alinhamento das empresas com legislações anticorrupção e princípios de governança corporativa.</p>
+
 <ul>
-  <li><strong>Supreme Federal Court Ruling on Labor Laws:</strong> A landmark decision was handed down affirming the legality of remote work contracts, establishing clearer employer and employee rights related to working hours, expenses, and social security contributions.</li>
-  <li><strong>Environmental Legislation Enhancements:</strong> Brazil passed stricter regulations on deforestation penalties, increasing fines by 30% and mandating new restoration obligations for companies operating in the Amazon region.</li>
-  <li><strong>Data Protection Law Enforcement:</strong> The National Data Protection Authority (ANPD) announced intensified audits and penalties under the LGPD (General Data Protection Law), focusing on financial institutions and e-commerce platforms to enhance consumer privacy protections.</li>
+  <li><strong>Ampliação do Escopo:</strong> Cobertura maior para setores estratégicos, exigindo maior rigor na prevenção de riscos e na transparência.</li>
+  <li><strong>Incentivos Legais:</strong> Empresas com programas robustos de compliance podem ter benefícios em processos administrativos e judiciais.</li>
+  <li><strong>Responsabilidade dos Executivos:</strong> Atenção reforçada em relação à responsabilização direta de administradores em casos de negligência.</li>
 </ul>
 
-<h2>Implications for Businesses and Citizens</h2>
-<p>These fiscal and legal changes collectively aim to foster a more transparent, competitive, and sustainable business environment in Brazil. Companies should review their tax strategies, compliance practices, and labor policies to align with the new frameworks. Additionally, the enhanced environmental and data protection measures reinforce Brazil’s commitment to responsible growth and digital trust.</p>
+<p>Essa atualização reforça a tendência global da governança corporativa, estimulando ambientes de negócios mais seguros e éticos.</p>
 
-<p>Stay informed and consult legal and fiscal experts to navigate these updates effectively and leverage arising opportunities.</p>
+<h2>Atualização na Legislação Trabalhista e Tributação sobre Lucros e Dividendos</h2>
 
-<p>For further details, visit the official government portals or regulatory agencies:</p>
 <ul>
-  <li><a href="https://www.gov.br/pt-br" target="_blank">Brazil Federal Government</a></li>
-  <li><a href="https://www.stf.jus.br/portal/" target="_blank">Supreme Federal Court (STF)</a></li>
-  <li><a href="https://www.gov.br/anpd/pt-br" target="_blank">National Data Protection Authority (ANPD)</a></li>
+  <li><strong>Trabalho Remoto:</strong> A Câmara aprovou o projeto de lei que regulamenta regras específicas para o home office, definindo direitos, deveres e limites claros para empregadores e empregados.</li>
+  <li><strong>Tributação de Dividendos:</strong> Em discussão no Senado, há um movimento para tributar dividendos a partir de 2026, o que pode alterar significativamente o planejamento financeiro de empresas e investidores.</li>
 </ul>
 
-<h1>Últimas Notícias Fiscais e Jurídicas no Brasil – 17 de Junho de 2025</h1>
-<p>Enquanto o Brasil avança em seu cenário econômico e regulatório dinâmico, junho de 2025 marca um período de atualizações significativas nas áreas fiscal e jurídica. Este post apresenta um resumo conciso dos principais acontecimentos recentes que impactam empresas, investidores e cidadãos em todo o país.</p>
+<p>Especialistas recomendam atenção a essas mudanças para adequar contratos e estratégias tributárias, evitando riscos e aproveitando oportunidades.</p>
 
-<h2>Principais Atualizações Fiscais</h2>
+<h2>Decisões Relevantes dos Tribunais Superiores</h2>
+
+<p>O Supremo Tribunal Federal (STF) emitiu recentemente decisões que impactam diretamente a interpretação da legislação fiscal e administrativa:</p>
+
 <ul>
-  <li><strong>Implementação da Nova Reforma Tributária:</strong> O Governo Federal promulgou a última fase da ampla reforma tributária, focando na simplificação das estruturas de impostos e na redução das alíquotas corporativas de 25% para 20% para pequenas e médias empresas (PMEs) qualificadas. O objetivo é estimular o empreendedorismo e o investimento estrangeiro.</li>
-  <li><strong>Ajustes no Imposto sobre Serviços Digitais (ISS Digital):</strong> Seguindo tendências globais, o Brasil atualizou as regras do ISS nas plataformas digitais, elevando para R$ 5 milhões o limite para a sua aplicação, isentando assim startups e pequenos negócios digitais.</li>
-  <li><strong>Alterações na Lei de Responsabilidade Fiscal:</strong> Novas disposições foram introduzidas para aprimorar a transparência fiscal e o controle nos municípios, exigindo relatórios orçamentários mais rigorosos e auditorias digitais em tempo real para conter endividamento municipal.</li>
+  <li><strong>Exclusão do ICMS da Base do PIS/Cofins:</strong> Mantida a jurisprudência que desconsidera o ICMS na base de cálculo dos tributos federais, com efeitos financeiros significativos para contribuintes.</li>
+  <li><strong>Repercussão Geral sobre Simples Nacional:</strong> Definição de critérios para inclusão ou exclusão de receitas no regime, auxiliando na segurança jurídica dos pequenos negócios.</li>
 </ul>
 
-<h2>Desenvolvimentos Jurídicos Recentes</h2>
-<ul>
-  <li><strong>Decisão do Supremo Tribunal Federal sobre Legislação Trabalhista:</strong> Foi proferida uma decisão histórica confirmando a legalidade dos contratos de teletrabalho, estabelecendo direitos e deveres mais claros para empregadores e trabalhadores quanto a jornada, despesas e contribuições previdenciárias.</li>
-  <li><strong>Reforço na Legislação Ambiental:</strong> O Brasil aprovou normas mais rigorosas sobre penalidades por desmatamento, aumentando as multas em 30% e impondo obrigações de restauração para empresas que atuam na região amazônica.</li>
-  <li><strong>Aplicação Intensificada da Lei Geral de Proteção de Dados (LGPD):</strong> A Autoridade Nacional de Proteção de Dados (ANPD) anunciou auditorias e penalidades mais rigorosas, especialmente para instituições financeiras e plataformas de comércio eletrônico, visando fortalecer a proteção da privacidade dos consumidores.</li>
-</ul>
+<p>Fique atento às publicações oficiais para o acompanhamento dos desdobramentos práticos dessas decisões.</p>
 
-<h2>Implicações para Empresas e Cidadãos</h2>
-<p>Essas mudanças fiscais e jurídicas têm como objetivo criar um ambiente de negócios mais transparente, competitivo e sustentável no Brasil. As empresas devem revisar suas estratégias tributárias, práticas de conformidade e políticas trabalhistas para se alinharem aos novos marcos. Além disso, as medidas ambientais e de proteção de dados reforçam o compromisso do país com um crescimento responsável e confiança digital.</p>
+<h2>Conclusão</h2>
 
-<p>Mantenha-se informado e consulte especialistas jurídicos e fiscais para lidar com essas atualizações de forma eficaz e aproveitar as oportunidades geradas.</p>
+<p>O ambiente fiscal e legal brasileiro em junho de 2025 está em transformação, com reformas estruturais e atualizações legislativas que exigem atenção constante de todos os envolvidos. Investir em conhecimento, adaptação e consultoria especializada é fundamental para navegar nesse cenário em evolução.</p>
 
-<p>Para mais detalhes, acesse os portais oficiais do governo e órgãos reguladores:</p>
-<ul>
-  <li><a href="https://www.gov.br/pt-br" target="_blank">Governo Federal do Brasil</a></li>
-  <li><a href="https://www.stf.jus.br/portal/" target="_blank">Supremo Tribunal Federal (STF)</a></li>
-  <li><a href="https://www.gov.br/anpd/pt-br" target="_blank">Autoridade Nacional de Proteção de Dados (ANPD)</a></li>
-</ul>
+<p>Para mais detalhes e acompanhamento das notícias em tempo real, recomenda-se consultar fontes oficiais e especializadas.</p>
       </section>
       <Footer />
     </>

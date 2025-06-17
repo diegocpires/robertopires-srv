@@ -2,7 +2,7 @@
 import Navbar from "../../../components/Navbar";
 import Footer from "../../../components/Footer";
 
-export default function Servicos() {
+export default function Noticias() {
   return (
     <>
       <Navbar />
@@ -10,59 +10,68 @@ export default function Servicos() {
         <h1 className="text-2xl md:text-4xl font-bold text-primary-dark mb-4">Notícias</h1>
       </section>
       <section className="max-w-4xl w-full mx-auto py-8 px-2 md:py-16 md:px-4">
-        <h1>Principais Atualizações Fiscais e Jurídicas no Brasil – Junho de 2025</h1>
+        <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atualizações Fiscais e Legais no Brasil – Junho 2025</title>
+</head>
+<body>
+    <h1>Principais Notícias e Atualizações nas Áreas Fiscal e Legal no Brasil – Junho de 2025</h1>
 
-<p>O cenário fiscal e jurídico brasileiro tem passado por mudanças relevantes nas últimas semanas, trazendo impactos significativos para profissionais, empresas e demais interessados. Nesta análise, reunimos as notícias mais importantes até 17 de junho de 2025, destacando os pontos que merecem atenção para melhor compreensão e planejamento estratégico.</p>
+    <p>À medida que avançamos em 2025, o cenário fiscal e legal do Brasil apresenta importantes mudanças que impactam empresas, investidores e cidadãos. Este artigo traz um resumo atualizado das novidades mais relevantes até 17 de junho de 2025, facilitando o entendimento sobre os principais movimentos legislativos e regulatórios no país.</p>
 
-<h2>Reforma Tributária: Avanços e Novidades</p>
+    <h2>1. Reforma Tributária Avança no Congresso</h2>
+    <p>Uma das pautas mais discutidas no primeiro semestre de 2025 foi a continuação da reforma tributária, focada em simplificar o sistema fiscal brasileiro. Recentemente, o Congresso Nacional aprovou novas diretrizes para unificação de tributos federais e estaduais, com destaque para:</p>
+    <ul>
+        <li><strong>Criação do IBS (Imposto sobre Bens e Serviços):</strong> Um imposto único que substituirá impostos como PIS, Cofins e ICMS, prometendo reduzir a burocracia e diminuir litígios fiscais.</li>
+        <li><strong>Novas regras para o Simples Nacional:</strong> Ampliação do limite de faturamento para micro e pequenas empresas, facilitando sua inclusão e beneficiando o empreendedorismo local.</li>
+    </ul>
+    <p>Especialistas apontam que a implementação gradual do IBS deve começar no segundo semestre, com reflexos diretos na carga tributária das empresas.</p>
 
-<p>Após intensa discussão no Congresso, a Reforma Tributária avançou com a aprovação da PEC 45/2019 na Câmara dos Deputados, representando um passo decisivo rumo à simplificação do sistema tributário nacional.</p>
+    <h2>2. Atualizações em Legislação Trabalhista e Compliance</h2>
+    <p>Na esfera legal trabalhista, o TST (Tribunal Superior do Trabalho) divulgou novas orientações para a aplicação da reforma trabalhista feita em 2017, enfatizando a necessidade de:</p>
+    <ul>
+        <li>Maior rigor na fiscalização do home office e suas implicações legais;</li>
+        <li>Reforço nas punições para fraudes relacionadas a registros eletrônicos de jornada;</li>
+        <li>Sugestão para adoção obrigatória de políticas de compliance trabalhista em empresas acima de 200 funcionários.</li>
+    </ul>
+    <p>Estas medidas refletem a crescente preocupação do governo em modernizar as relações de trabalho, garantindo transparência e respeito aos direitos dos trabalhadores.</p>
 
-<ul>
-  <li><strong>Fusão de Tributos:</strong> A proposta prevê a unificação de cinco tributos federais, estaduais e municipais, como ICMS, ISS, IPI, PIS e Cofins, em um único imposto sobre bens e serviços (IBS).</li>
-  <li><strong>Redução da Cumulatividade:</strong> Espera-se maior eficiência no recolhimento e diminuição do efeito cascata, beneficiando cadeias produtivas.</li>
-  <li><strong>Transição Suave:</strong> O texto aprovado inclui mecanismos para adaptação gradual, buscando minimizar impactos negativos para empresas e consumidores.</li>
-</ul>
+    <h2>3. Novas Normas para o Setor de Tecnologia e Privacidade de Dados</h2>
+    <p>Com o avanço das tecnologias digitais, o Brasil atualizou seu marco regulatório sobre proteção de dados pessoais. Destacam-se:</p>
+    <ul>
+        <li><strong>Aprimoramentos na LGPD (Lei Geral de Proteção de Dados):</strong> Estão previstas sanções mais severas para empresas que não adotarem medidas efetivas de proteção e tratamento de dados;</li>
+        <li><strong>Regras para inteligência artificial e algoritmos:</strong> Novo projeto de lei prevê transparência nas decisões automatizadas, visando combater vieses e discriminação;</li>
+        <li><strong>Estímulo à governança digital nas corporações:</strong> Exigência da implementação de comitês internos para acompanhar o cumprimento das normas digitais.</li>
+    </ul>
 
-<p>Profissionais da área devem acompanhar as próximas fases no Senado e possíveis alterações, além de preparar suas organizações para a nova realidade tributária.</p>
+    <h2>4. Fiscalização e Combate à Evasão Fiscal</h2>
+    <p>O governo federal intensificou suas ações contra a sonegação fiscal, utilizando ferramentas tecnológicas avançadas, tais como:</p>
+    <ul>
+        <li>Monitoramento via inteligência artificial de grandes contribuintes e setores críticos;</li>
+        <li>Ampliação do uso de blockchain para controle e rastreamento de operações financeiras;</li>
+        <li>Parcerias internacionais para troca de informações e combate a evasão transnacional.</li>
+    </ul>
+    <p>Além disso, houve a publicação de novas portarias da Receita Federal com regras mais claras para declaração e fiscalização de bens no exterior.</p>
 
-<h2>Novas Regras para Compliance e Responsabilidade Empresarial</h2>
+    <h2>5. Impactos para Investidores Estrangeiros</h2>
+    <p>Com as recentes alterações fiscais e regulatórias, investidores estrangeiros devem atentar-se para:</p>
+    <ul>
+        <li>Novos limites e obrigações fiscais na entrada de capitais;</li>
+        <li>Regras mais rígidas sobre proteção de dados e compliance;</li>
+        <li>Alterações na tributação sobre lucros e dividendos, com foco em evitar dupla tributação.</li>
+    </ul>
+    <p>O governo reforça o compromisso em promover um ambiente de negócios mais atraente e seguro, ao mesmo tempo em que busca garantir a arrecadação justa.</p>
 
-<p>Em paralelo, o Ministério da Justiça publicou novas diretrizes para programas de compliance, reforçando a importância do alinhamento das empresas com legislações anticorrupção e princípios de governança corporativa.</p>
+    <h2>Conclusão</h2>
+    <p>O primeiro semestre de 2025 marca um momento importante para o Brasil na busca por maior eficiência na gestão tributária e atualização das leis em sintonia com as demandas atuais. Empresas e profissionais devem acompanhar essas mudanças atentamente para garantir conformidade e aproveitar as oportunidades que surgem com reformulações legais.</p>
+    <p>Manter-se informado e prestar atenção às atualizações normativas será essencial para o sucesso e segurança jurídica dos negócios daqui para frente.</p>
 
-<ul>
-  <li><strong>Ampliação do Escopo:</strong> Cobertura maior para setores estratégicos, exigindo maior rigor na prevenção de riscos e na transparência.</li>
-  <li><strong>Incentivos Legais:</strong> Empresas com programas robustos de compliance podem ter benefícios em processos administrativos e judiciais.</li>
-  <li><strong>Responsabilidade dos Executivos:</strong> Atenção reforçada em relação à responsabilização direta de administradores em casos de negligência.</li>
-</ul>
-
-<p>Essa atualização reforça a tendência global da governança corporativa, estimulando ambientes de negócios mais seguros e éticos.</p>
-
-<h2>Atualização na Legislação Trabalhista e Tributação sobre Lucros e Dividendos</h2>
-
-<ul>
-  <li><strong>Trabalho Remoto:</strong> A Câmara aprovou o projeto de lei que regulamenta regras específicas para o home office, definindo direitos, deveres e limites claros para empregadores e empregados.</li>
-  <li><strong>Tributação de Dividendos:</strong> Em discussão no Senado, há um movimento para tributar dividendos a partir de 2026, o que pode alterar significativamente o planejamento financeiro de empresas e investidores.</li>
-</ul>
-
-<p>Especialistas recomendam atenção a essas mudanças para adequar contratos e estratégias tributárias, evitando riscos e aproveitando oportunidades.</p>
-
-<h2>Decisões Relevantes dos Tribunais Superiores</h2>
-
-<p>O Supremo Tribunal Federal (STF) emitiu recentemente decisões que impactam diretamente a interpretação da legislação fiscal e administrativa:</p>
-
-<ul>
-  <li><strong>Exclusão do ICMS da Base do PIS/Cofins:</strong> Mantida a jurisprudência que desconsidera o ICMS na base de cálculo dos tributos federais, com efeitos financeiros significativos para contribuintes.</li>
-  <li><strong>Repercussão Geral sobre Simples Nacional:</strong> Definição de critérios para inclusão ou exclusão de receitas no regime, auxiliando na segurança jurídica dos pequenos negócios.</li>
-</ul>
-
-<p>Fique atento às publicações oficiais para o acompanhamento dos desdobramentos práticos dessas decisões.</p>
-
-<h2>Conclusão</h2>
-
-<p>O ambiente fiscal e legal brasileiro em junho de 2025 está em transformação, com reformas estruturais e atualizações legislativas que exigem atenção constante de todos os envolvidos. Investir em conhecimento, adaptação e consultoria especializada é fundamental para navegar nesse cenário em evolução.</p>
-
-<p>Para mais detalhes e acompanhamento das notícias em tempo real, recomenda-se consultar fontes oficiais e especializadas.</p>
+    <p>Para mais detalhes, acesse as fontes oficiais do <a href="https://www.gov.br/receitafederal/pt-br" target="_blank" rel="noopener noreferrer">Receita Federal</a>, <a href="https://www.congresso.leg.br" target="_blank" rel="noopener noreferrer">Congresso Nacional</a> e <a href="http://www.tst.jus.br/" target="_blank" rel="noopener noreferrer">Tribunal Superior do Trabalho</a>.</p>
+</body>
+</html>
       </section>
       <Footer />
     </>

@@ -12,22 +12,34 @@ export default function Servicos() {
         <p className="max-w-2xl mx-auto text-lg text-primary-dark mb-8">Conheça nossas soluções contábeis para empresas de todos os portes.</p>
       </section>
       <section className="max-w-4xl w-full mx-auto py-8 px-2 md:py-16 md:px-4">
-        Com base na data de hoje, 17 de junho de 2025, segue um resumo dos principais acontecimentos da última semana no ramo de contabilidade e gerenciamento de empresas no Brasil:
-
-**Resumo das últimas notícias na área de contabilidade e gestão empresarial**
-
-1. **Reforma Tributária avança no Congresso Nacional**  
-Na semana passada, o Congresso Nacional deu um passo importante na tramitação da proposta de reforma tributária, que visa simplificar o sistema fiscal brasileiro e reduzir a carga tributária para empresas. O texto, aprovado na Comissão de Tributação, prevê a unificação de impostos e a criação de um novo imposto sobre bens e serviços (IBS). Essa mudança deve impactar positivamente a gestão financeira e os processos contábeis das empresas em todo o país. [Fonte: G1 - Reforma Tributária](https://g1.globo.com/economia/noticia/2025/06/16/reforma-tributaria-avanca-no-congresso.ghtml)
-
-2. **Novas regras de SPC e Serasa para empresas melhoram análise de crédito**  
-O Banco Central anunciou novas diretrizes para o uso de dados de crédito de empresas nas operações de análise de risco. As mudanças visam maior transparência e precisão no impacto de informações negativas, como débitos não quitados, facilitando a tomada de decisão por gestores e contadores. Especialistas ressaltam que essas medidas podem contribuir para uma gestão de crédito mais eficiente. [Fonte: Valor Econômico - Novas regras de crédito](https://valor.globo.com/empresas/noticia/2025/06/14/banco-central-redefine-regras-para-consulta-de-credito-empresarial.ghtml)
-
-3. **Ferramentas de automação continuam ganhando espaço na contabilidade**  
-Empresas de tecnologia divulgaram dados que evidenciam um crescimento significativo na adoção de softwares de automação contábil. Essas ferramentas facilitam tarefas repetitivas, aumentam a precisão e reduzem custos operacionais. Especialistas afirmam que a inovação tecnológica é uma tendência irreversível na área, demandando uma atualização constante dos profissionais de contabilidade. [Fonte: Portal Contabeis - Automação na contabilidade](https://www.contabeis.com.br/noticias/12500/automacao-contabil-cresce-37-em-2025/)
-
-Essas são algumas das notícias mais relevantes na semana, refletindo as mudanças regulatórias, avanços tecnológicos e o cenário de reformas que impactam diretamente o gerenciamento de empresas e a atuação dos profissionais de contabilidade no Brasil.  
-
-Se desejar, posso buscar links atualizados ou mais específicos.
+        ```html
+<section>
+  <h2>Resumo das Principais Notícias na Área de Contabilidade e Gestão de Empresas - Semana de 10 a 17 de Junho de 2025</h2>
+  <article>
+    <h3>1. Reforma Tributária avança no Congresso Nacional</h3>
+    <p>Após meses de debates intensos, a proposta de Reforma Tributária está mais próxima de ser aprovada pelo Congresso. A mudança busca simplificar o sistema de impostos, reduzir a carga tributária para empresas e fomentar o crescimento econômico. O texto ainda aguarda votações nas comissões finais, mas já apresenta avanços consideráveis.</p>
+    <p>Fonte: <a href="https://www.cnnbrasil.com.br/business/reforma-tributaria-avanca-no-congresso-e-promete transformar-gestao-fiscal-no-brasil/">CNN Brasil - Reforma Tributária</a></p>
+  </article>
+  
+  <article>
+    <h3>2. Receita Federal publica orientação sobre obrigatoriedade do e-Social</h3>
+    <p>A Receita Federal reforçou a obrigatoriedade do uso do sistema e-Social para empresas de todos os portes. A medida visa a modernização do controle das obrigações fiscais, previdenciárias e trabalhistas, facilitando o cruzamento de informações e aumentando a fiscalização contra fraudes.</p>
+    <p>Fonte: <a href="https://g1.globo.com/economia/noticia/2025/06/15/receita-divulga-orientacoes-para-eficaz-utilizacao-do-e-social.ghtml">G1 Economia - e-Social</a></p>
+  </article>
+  
+  <article>
+    <h3>3. Novas validações fiscais impactam escritórios de contabilidade</h3>
+    <p>Com o objetivo de diminuir fraudes e aumentar a arrecadação, a Receita Federal implementou novas validações nos documentos fiscais eletrônicos. Escritórios de contabilidade estão investindo em treinamentos e atualizações de sistemas para atender às novas exigências, o que requer adaptação rápida do setor.</p>
+    <p>Fonte: <a href="https://www.contabeis.com.br/noticias/89788/nova-validacao-de-documentos-fiscais.html">Contábeis - Novas validações fiscais</a></p>
+  </article>
+  
+  <article>
+    <h3>4. Empresários apontam dificuldades na adequação às mudanças na Lei de Falências</h3>
+    <p>A recente alteração na Lei de Falências e Recuperação Judicial trouxe maior proteção para credores, mas também gerou preocupações entre empresários e gestores. Muitos relataram dificuldades de adaptação às novas regras, especialmente no que diz respeito às etapas de recuperação e às garantias oferecidas.</p>
+    <p>Fonte: <a href="https://exame.com/negocios/empresarios-enfrentam-dificuldades-com-novas-regras-da-lei-de-falencias/">Exame - Lei de Falências</a></p>
+  </article>
+</section>
+```
       </section>
       <Footer />
     </>

@@ -12,19 +12,19 @@ export default function Servicos() {
         <p className="max-w-2xl mx-auto text-lg text-primary-dark mb-8">Conheça nossas soluções contábeis para empresas de todos os portes.</p>
       </section>
       <section className="max-w-4xl w-full mx-auto py-8 px-2 md:py-16 md:px-4">
-        Nas últimas semanas, o setor de contabilidade e gerenciamento de empresas no Brasil passou por diversos acontecimentos relevantes que impactam empresários e profissionais da área. A seguir, destacam-se os principais fatos que marcaram o cenário semanal.
+        Neste levantamento semanal do setor de contabilidade e gerenciamento de empresas no Brasil, destacam-se os principais acontecimentos que moldaram o cenário econômico e regulatório do país. A seguir, uma síntese das informações mais relevantes da última semana:
 
-Primeiramente, o Governo Federal anunciou uma nova rodada de incentivos fiscais para micro e pequenas empresas, com o objetivo de impulsionar a recuperação econômica pós-pandemia. As medidas incluem redução de alíquotas de impostos e facilitação de acesso a linhas de crédito específicas, promovendo maior competitividade no mercado.
+1. **Reforma Tributária avança no Congresso:** Após meses de debates, a proposta de reforma tributária começa a ganhar tração no Congresso Nacional, com propostas centradas na simplificação do sistema e na redução da carga tributária para pequenas e médias empresas. Especialistas apontam que a aprovação pode representar um impacto positivo para o ambiente de negócios no Brasil.
 
-Em seguida, o Conselho Federal de Contabilidade (CFC) reforçou a importância da atualização digital para os profissionais da área. Uma nova plataforma de certificação online foi lançada, facilitando a obtenção de certificações e atualizações constantes, refletindo a necessidade de adaptação às tendências tecnológicas.
+2. **Novo Normativo de Obrigações Acessórias:** A Receita Federal anunciou alterações nas obrigações acessórias para empresas, visando simplificar o cumprimento fiscal. As mudanças incluem prazos mais flexíveis e a implantação de novas plataformas digitais que prometem diminuir a burocracia para os contadores e gestores.
 
-Outra notícia de destaque foi a implementação de mudanças na legislação tributária que acabam de entrar em vigor. As alterações trazem maior clareza nas obrigações acessórias e simplificam processos de declaração de impostos, podendo reduzir a carga burocrática para empresas de todos os portes.
+3. **Aumento no Uso de Tecnologia na Contabilidade:** Houve um crescimento expressivo na adoção de softwares de automação e inteligência artificial em escritórios de contabilidade, impulsionado pela necessidade de maior eficiência e precisão nos processos. Empresas de tecnologia anunciam novos recursos que prometem revolucionar a gestão financeira e fiscal.
 
-No âmbito das startups, foram divulgados dados indicando um crescimento expressivo no número de empresas do setor de gestão financeira e contábil, impulsionado pelo avanço da transformação digital. Essa tendência evidencia a importância de soluções inovadoras para o gerenciamento financeiro eficiente.
+4. **Cenário de Inflação Impacta Planejamento Empresarial:** Dados divulgados pelo IBGE indicam uma leve elevação na inflação, o que tem levado gestores a revisarem suas projeções de fluxo de caixa e estratégias de precificação. Especialistas recomendam atenção redobrada na gestão financeira para manter a saúde dos negócios.
 
-Por fim, novidades sobre a fiscalização contábil apontam para um aumento na verificação de conformidade por parte da Receita Federal, com foco na combate à sonegação e ao uso de práticas ilegais. Empresas que mantêm uma contabilidade regular e transparente serão priorizadas nesse processo de auditoria, reforçando a necessidade de compliance e governança corporativa.
+5. **Capacitações e Cursos para Profissionais de Contabilidade:** Diversas instituições de ensino e entidades representativas do setor lançaram programas de capacitação voltados para a atualização de profissionais de contabilidade, enfatizando conhecimento em novas legislações, tecnologia e gestão empresarial, refletindo a busca por atualização contínua no mercado de trabalho.
 
-Esses acontecimentos reforçam a dinâmica do mercado de contabilidade no Brasil, evidenciando a busca por inovação, maior eficiência e conformidade, elementos essenciais para o fortalecimento dos negócios em um cenário cada vez mais competitivo.
+Esses acontecimentos mostram um cenário dinâmico e em constante evolução, reforçando a importância de uma gestão contábil eficiente e alinhada às mudanças regulatórias e tecnológicas no Brasil.
       </section>
       <Footer />
     </>

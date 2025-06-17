@@ -10,68 +10,39 @@ export default function Noticias() {
         <h1 className="text-2xl md:text-4xl font-bold text-primary-dark mb-4">Notícias</h1>
       </section>
       <section className="max-w-4xl w-full mx-auto py-8 px-2 md:py-16 md:px-4">
-        <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Atualizações Fiscais e Legais no Brasil – Junho 2025</title>
-</head>
-<body>
-    <h1>Principais Notícias e Atualizações nas Áreas Fiscal e Legal no Brasil – Junho de 2025</h1>
+        <h1>Atualizações Recentes nas Áreas Fiscal e Jurídica no Brasil – Junho de 2025</h1>
 
-    <p>À medida que avançamos em 2025, o cenário fiscal e legal do Brasil apresenta importantes mudanças que impactam empresas, investidores e cidadãos. Este artigo traz um resumo atualizado das novidades mais relevantes até 17 de junho de 2025, facilitando o entendimento sobre os principais movimentos legislativos e regulatórios no país.</p>
+<p>Em 17 de junho de 2025, o cenário fiscal e jurídico brasileiro passou por mudanças significativas que prometem impactar tanto empresas quanto cidadãos. Neste artigo, destacamos os principais acontecimentos, alterações legislativas e regulamentares que merecem atenção neste momento.</p>
 
-    <h2>1. Reforma Tributária Avança no Congresso</h2>
-    <p>Uma das pautas mais discutidas no primeiro semestre de 2025 foi a continuação da reforma tributária, focada em simplificar o sistema fiscal brasileiro. Recentemente, o Congresso Nacional aprovou novas diretrizes para unificação de tributos federais e estaduais, com destaque para:</p>
-    <ul>
-        <li><strong>Criação do IBS (Imposto sobre Bens e Serviços):</strong> Um imposto único que substituirá impostos como PIS, Cofins e ICMS, prometendo reduzir a burocracia e diminuir litígios fiscais.</li>
-        <li><strong>Novas regras para o Simples Nacional:</strong> Ampliação do limite de faturamento para micro e pequenas empresas, facilitando sua inclusão e beneficiando o empreendedorismo local.</li>
-    </ul>
-    <p>Especialistas apontam que a implementação gradual do IBS deve começar no segundo semestre, com reflexos diretos na carga tributária das empresas.</p>
+<h2>1. Reforma Tributária Avança no Congresso</h2>
 
-    <h2>2. Atualizações em Legislação Trabalhista e Compliance</h2>
-    <p>Na esfera legal trabalhista, o TST (Tribunal Superior do Trabalho) divulgou novas orientações para a aplicação da reforma trabalhista feita em 2017, enfatizando a necessidade de:</p>
-    <ul>
-        <li>Maior rigor na fiscalização do home office e suas implicações legais;</li>
-        <li>Reforço nas punições para fraudes relacionadas a registros eletrônicos de jornada;</li>
-        <li>Sugestão para adoção obrigatória de políticas de compliance trabalhista em empresas acima de 200 funcionários.</li>
-    </ul>
-    <p>Estas medidas refletem a crescente preocupação do governo em modernizar as relações de trabalho, garantindo transparência e respeito aos direitos dos trabalhadores.</p>
+<p>Uma das notícias mais importantes é o avanço da reforma tributária, que está em fase final de votação na Câmara dos Deputados. A proposta visa simplificar o sistema fiscal, unificando impostos federais, estaduais e municipais em um único tributo sobre valor agregado (IVA). Esse movimento pretende reduzir a burocracia e estimular investimentos, especialmente para pequenas e médias empresas.</p>
 
-    <h2>3. Novas Normas para o Setor de Tecnologia e Privacidade de Dados</h2>
-    <p>Com o avanço das tecnologias digitais, o Brasil atualizou seu marco regulatório sobre proteção de dados pessoais. Destacam-se:</p>
-    <ul>
-        <li><strong>Aprimoramentos na LGPD (Lei Geral de Proteção de Dados):</strong> Estão previstas sanções mais severas para empresas que não adotarem medidas efetivas de proteção e tratamento de dados;</li>
-        <li><strong>Regras para inteligência artificial e algoritmos:</strong> Novo projeto de lei prevê transparência nas decisões automatizadas, visando combater vieses e discriminação;</li>
-        <li><strong>Estímulo à governança digital nas corporações:</strong> Exigência da implementação de comitês internos para acompanhar o cumprimento das normas digitais.</li>
-    </ul>
+<p>Para as empresas, a mudança pode significar maior previsibilidade na gestão tributária e redução dos custos operacionais. Já para os consumidores, a expectativa é que a simplificação possa ajudar na redução dos preços de produtos e serviços, embora especialistas alertem para impactos diferenciados conforme o setor.</p>
 
-    <h2>4. Fiscalização e Combate à Evasão Fiscal</h2>
-    <p>O governo federal intensificou suas ações contra a sonegação fiscal, utilizando ferramentas tecnológicas avançadas, tais como:</p>
-    <ul>
-        <li>Monitoramento via inteligência artificial de grandes contribuintes e setores críticos;</li>
-        <li>Ampliação do uso de blockchain para controle e rastreamento de operações financeiras;</li>
-        <li>Parcerias internacionais para troca de informações e combate a evasão transnacional.</li>
-    </ul>
-    <p>Além disso, houve a publicação de novas portarias da Receita Federal com regras mais claras para declaração e fiscalização de bens no exterior.</p>
+<h2>2. Novas Regras de Compliance Trabalhista</h2>
 
-    <h2>5. Impactos para Investidores Estrangeiros</h2>
-    <p>Com as recentes alterações fiscais e regulatórias, investidores estrangeiros devem atentar-se para:</p>
-    <ul>
-        <li>Novos limites e obrigações fiscais na entrada de capitais;</li>
-        <li>Regras mais rígidas sobre proteção de dados e compliance;</li>
-        <li>Alterações na tributação sobre lucros e dividendos, com foco em evitar dupla tributação.</li>
-    </ul>
-    <p>O governo reforça o compromisso em promover um ambiente de negócios mais atraente e seguro, ao mesmo tempo em que busca garantir a arrecadação justa.</p>
+<p>O Ministério do Trabalho publicou novas orientações relativas à conformidade trabalhista, destacando a importância de políticas de compliance mais robustas dentro das organizações. As mudanças incluem a exigência de relatórios anuais sobre práticas anticorrupção e combate à discriminação no ambiente de trabalho.</p>
 
-    <h2>Conclusão</h2>
-    <p>O primeiro semestre de 2025 marca um momento importante para o Brasil na busca por maior eficiência na gestão tributária e atualização das leis em sintonia com as demandas atuais. Empresas e profissionais devem acompanhar essas mudanças atentamente para garantir conformidade e aproveitar as oportunidades que surgem com reformulações legais.</p>
-    <p>Manter-se informado e prestar atenção às atualizações normativas será essencial para o sucesso e segurança jurídica dos negócios daqui para frente.</p>
+<p>Essa atualização impacta diretamente os departamentos jurídicos e de recursos humanos, que deverão aprimorar seus processos internos para evitar multas e passivos trabalhistas. Empresas que adotarem boas práticas poderão se beneficiar de certificações que valorizam sua imagem no mercado.</p>
 
-    <p>Para mais detalhes, acesse as fontes oficiais do <a href="https://www.gov.br/receitafederal/pt-br" target="_blank" rel="noopener noreferrer">Receita Federal</a>, <a href="https://www.congresso.leg.br" target="_blank" rel="noopener noreferrer">Congresso Nacional</a> e <a href="http://www.tst.jus.br/" target="_blank" rel="noopener noreferrer">Tribunal Superior do Trabalho</a>.</p>
-</body>
-</html>
+<h2>3. Reforma do Judiciário: Aceleração de Processos e Ampliação do Uso da Tecnologia</h2>
+
+<p>O Conselho Nacional de Justiça (CNJ) lançou um plano estratégico com foco na modernização do judiciário. Entre as medidas estão a ampliação do uso de inteligência artificial para análise prévia de processos e a redução dos prazos para julgamento, o que promete desengessar o sistema e reduzir a morosidade judicial.</p>
+
+<p>Para advogados e cidadãos, essas mudanças representam uma expectativa de solução mais rápida para litígios, o que pode incentivar mais negócios e aumentar a segurança jurídica nas transações comerciais.</p>
+
+<h2>4. Atualização das Normas de Proteção de Dados Pessoais</h2>
+
+<p>Com a Lei Geral de Proteção de Dados (LGPD) completando três anos em vigor, a Autoridade Nacional de Proteção de Dados (ANPD) publicou novas diretrizes que ampliam o escopo de fiscalizações e estabelecem multas mais rigorosas para vazamentos e uso indevido de dados pessoais.</p>
+
+<p>Empresas precisam revisar suas políticas de privacidade e investir em treinamentos para garantir conformidade. A atenção à proteção de dados não só evita penalidades financeiras, mas também protege a reputação das marcas perante consumidores cada vez mais atentos à privacidade.</p>
+
+<h2>Conclusão</h2>
+
+<p>As mudanças na legislação fiscal e jurídica do Brasil em junho de 2025 refletem uma tendência clara de modernização e busca por maior eficiência e transparência. Empresários e cidadãos devem acompanhar de perto essas atualizações para adequar suas práticas e aproveitar as oportunidades que surgem com o novo cenário.</p>
+
+<p>Para se manter informado sobre esses e outros temas, recomendamos acessar regularmente fontes oficiais como o <a href="https://www.gov.br/pt-br" target="_blank" rel="noopener noreferrer">Portal do Governo Federal</a> e o <a href="https://www.cnj.jus.br" target="_blank" rel="noopener noreferrer">Conselho Nacional de Justiça</a>.</p>
       </section>
       <Footer />
     </>

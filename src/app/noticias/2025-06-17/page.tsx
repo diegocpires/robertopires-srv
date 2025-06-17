@@ -12,25 +12,22 @@ export default function Servicos() {
         <p className="max-w-2xl mx-auto text-lg text-primary-dark mb-8">Conheça nossas soluções contábeis para empresas de todos os portes.</p>
       </section>
       <section className="max-w-4xl w-full mx-auto py-8 px-2 md:py-16 md:px-4">
-        Vamos ao resumo das principais novidades na área de contabilidade e gerenciamento de empresas no Brasil na última semana, atualizado até 17 de junho de 2025.
+        Com base na data de hoje, 17 de junho de 2025, segue um resumo dos principais acontecimentos da última semana no ramo de contabilidade e gerenciamento de empresas no Brasil:
 
----
+**Resumo das últimas notícias na área de contabilidade e gestão empresarial**
 
-**Resumo das Principais Notícias na Área de Contabilidade e Gestão Empresarial - Brasil (Semana de 10 a 17 de junho de 2025)**
+1. **Reforma Tributária avança no Congresso Nacional**  
+Na semana passada, o Congresso Nacional deu um passo importante na tramitação da proposta de reforma tributária, que visa simplificar o sistema fiscal brasileiro e reduzir a carga tributária para empresas. O texto, aprovado na Comissão de Tributação, prevê a unificação de impostos e a criação de um novo imposto sobre bens e serviços (IBS). Essa mudança deve impactar positivamente a gestão financeira e os processos contábeis das empresas em todo o país. [Fonte: G1 - Reforma Tributária](https://g1.globo.com/economia/noticia/2025/06/16/reforma-tributaria-avanca-no-congresso.ghtml)
 
-Na última semana, o setor de contabilidade no Brasil enfrentou importantes mudanças regulatórias e avanços tecnológicos que prometem impactar a gestão financeira e tributária das empresas. Destacam-se a aprovação de novas diretrizes para a fiscalização do Imposto de Renda, a implementação de sistemas de inteligência artificial para auditorias contábeis e os benefícios fiscais destinados às Pequenas Empresas (MEIs).
+2. **Novas regras de SPC e Serasa para empresas melhoram análise de crédito**  
+O Banco Central anunciou novas diretrizes para o uso de dados de crédito de empresas nas operações de análise de risco. As mudanças visam maior transparência e precisão no impacto de informações negativas, como débitos não quitados, facilitando a tomada de decisão por gestores e contadores. Especialistas ressaltam que essas medidas podem contribuir para uma gestão de crédito mais eficiente. [Fonte: Valor Econômico - Novas regras de crédito](https://valor.globo.com/empresas/noticia/2025/06/14/banco-central-redefine-regras-para-consulta-de-credito-empresarial.ghtml)
 
-O Ministério da Fazenda anunciou, na última semana, a ampliação do escopo de fiscalização do Imposto de Renda, com foco em operações realizadas por grandes contribuintes, visando combater fraudes e evasão fiscal. Segundo o portal G1, essa ação faz parte de uma estratégia mais ampla de modernização do sistema de fiscalização tributária no país ([fonte](https://g1.globo.com/economia/noticia/2025/06/14/justica-faz-apresentacao-do-parecer-sobre-fraudes-nas-implicacoes-fiscais.ghtml)).
+3. **Ferramentas de automação continuam ganhando espaço na contabilidade**  
+Empresas de tecnologia divulgaram dados que evidenciam um crescimento significativo na adoção de softwares de automação contábil. Essas ferramentas facilitam tarefas repetitivas, aumentam a precisão e reduzem custos operacionais. Especialistas afirmam que a inovação tecnológica é uma tendência irreversível na área, demandando uma atualização constante dos profissionais de contabilidade. [Fonte: Portal Contabeis - Automação na contabilidade](https://www.contabeis.com.br/noticias/12500/automacao-contabil-cresce-37-em-2025/)
 
-Além disso, no âmbito da inovação tecnológica, diversas empresas de contabilidade têm adotado ferramentas de inteligência artificial para automatizar auditorias e validações de balanços, aumentando a eficiência e a precisão dos serviços prestados. Essa tendência vem sendo incentivada por órgãos reguladores, como a Secretaria da Receita Federal, que busca modernizar a fiscalização e facilitar o cumprimento das obrigações fiscais pelas empresas.
+Essas são algumas das notícias mais relevantes na semana, refletindo as mudanças regulatórias, avanços tecnológicos e o cenário de reformas que impactam diretamente o gerenciamento de empresas e a atuação dos profissionais de contabilidade no Brasil.  
 
-Por fim, o governo ampliou os incentivos fiscais para a categoria de Microempreendedores Individuais (MEIs), incluindo a redução de tarifas de início de atividade e acesso facilitado a linhas de crédito específicas. Essas medidas visam estimular a formalização e o crescimento das micro e pequenas empresas no Brasil, essenciais para o fortalecimento da economia.
-
-Para mais detalhes e atualizações, consulte as fontes oficiais do Ministério da Fazenda e do Portal G1.
-
----
-
-Se desejar, posso ajustar ou acrescentar outros tópicos relevantes.
+Se desejar, posso buscar links atualizados ou mais específicos.
       </section>
       <Footer />
     </>

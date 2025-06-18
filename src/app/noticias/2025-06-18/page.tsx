@@ -16,13 +16,13 @@ export default function Noticias() {
 
 <h2>1. Atualizações na Tributação e Ambiente Fiscal</h2>
 <ul>
-  <li><strong>Curva de Juros para Títulos Corporativos</strong> – Embora específica dos Estados Unidos, a recente divulgação da curva mensal de rendimentos para títulos corporativos pelo IRS (Internal Revenue Service) é um indicador importante para o mercado financeiro global, inclusive para investidores brasileiros que atuam em mercados internacionais. Essa curva influencia decisões sobre investimentos em dívidas corporativas e pode impactar indiretamente o cenário econômico do Brasil.<br>
+  <li><strong>Curva de Juros para Títulos Corporativos</strong> – Embora específica dos Estados Unidos, a recente divulgação da curva mensal de rendimentos para títulos corporativos pelo IRS (Internal Revenue Service) é um indicador importante para o mercado financeiro global, inclusive para investidores brasileiros que atuam em mercados internacionais. Essa curva influencia decisões sobre investimentos em dívidas corporativas e pode impactar indiretamente o cenário econômico do Brasil.<br />
   Fonte: <a href="https://www.law360.com/articles/2353171/irs-issues-corp-bond-monthly-yield-curve-for-june" target="_blank">Law360 - IRS Issues Corp. Bond Monthly Yield Curve For June</a></li>
 </ul>
 
 <h2>2. Reestruturações nos Órgãos de Fiscalização</h2>
 <ul>
-  <li><strong>Departamento de Justiça dos EUA anuncia eliminação de unidade tributária</strong> – Como parte de uma reestruturação para diminuir pessoal, o Departamento de Justiça planeja eliminar sua unidade específica de fiscalização tributária, redistribuindo essas funções para divisões criminais e civis. Embora seja uma medida adotada nos Estados Unidos, tal movimento é acompanhado por especialistas brasileiros visando possíveis repercussões em práticas internacionais de cooperação fiscal e combate à sonegação.<br>
+  <li><strong>Departamento de Justiça dos EUA anuncia eliminação de unidade tributária</strong> – Como parte de uma reestruturação para diminuir pessoal, o Departamento de Justiça planeja eliminar sua unidade específica de fiscalização tributária, redistribuindo essas funções para divisões criminais e civis. Embora seja uma medida adotada nos Estados Unidos, tal movimento é acompanhado por especialistas brasileiros visando possíveis repercussões em práticas internacionais de cooperação fiscal e combate à sonegação.<br />
   Fonte: <a href="https://news.bloomberglaw.com/daily-tax-report/justice-department-to-eliminate-tax-unit-as-workforce-shrinks" target="_blank">Bloomberg Law News - Justice Department to Eliminate Tax Unit as Workforce Shrinks</a></li>
 </ul>
 
